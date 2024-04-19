@@ -1,4 +1,4 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Ammaarah 
 <a href="https://linkedin.com/in/ammaarah-adjiet-a92070118"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 [Brief Introduction - Remove this afterwards]
